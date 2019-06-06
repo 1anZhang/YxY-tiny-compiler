@@ -1,0 +1,17 @@
+{
+  "name": "the-super-tiny-compiler",
+  "version": "0.1.0",
+  "description": "the super tiny compiler project",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "compiler"
+  ],
+  "author": "ZhangYxY (zhangyxy94@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "1.17.1"
+  }
+}
